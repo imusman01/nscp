@@ -1,4 +1,4 @@
-NSClient++ By Usman
+NSClient++ By Usman khan
 ==========
 [![Build release](https://github.com/mickem/nscp/actions/workflows/build-main.yml/badge.svg)](https://github.com/mickem/nscp/actions/workflows/build-main.yml)
 
